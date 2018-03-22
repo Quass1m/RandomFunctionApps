@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/RandomFunctionApps/v15/Server/sqlite3
+/.vs/RandomFunctionApps/v15
+/RandomFunctionApps/Properties/PublishProfiles/RandomFunctionApp - Web Deploy.pubxml
